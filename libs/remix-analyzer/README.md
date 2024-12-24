@@ -14,7 +14,7 @@
 
 ### How to use
 
-`@remix-project/remix-analyzer` exports below interface:
+`@remix-project/remix-analyzer` exports the following interface:
 
 ```
 import { CompilationResult, AnalyzerModule, AnalysisReport } from 'types';
